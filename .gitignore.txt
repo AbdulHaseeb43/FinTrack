@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# React build
+client/build/
+client/.cache/
+
+# Environment files
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
